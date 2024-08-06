@@ -1,9 +1,7 @@
 # Joke-Generator-App-using-React-JS-and-APIs
-Website Link:[Joke-Generator-App](https://jokelaugh.netlify.app/)
+Website Link: [Joke-Generator-App](https://jokelaugh.netlify.app/)
 
 ![Sample](./src/sample-img/image.png)
-
-
 
 # Getting Started with Create React App
 
