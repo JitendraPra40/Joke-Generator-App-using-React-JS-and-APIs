@@ -1,0 +1,15 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.joke{
+    margin-top: 50px;
+    width: 700px;
+    height: 400px;
+    border-radius: 5px;
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(198, 221, 239);
+}
